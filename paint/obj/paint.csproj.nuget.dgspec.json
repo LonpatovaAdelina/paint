@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AALonpatova\\source\\repos\\paint\\paint\\paint.csproj": {}
+    "C:\\Users\\AALonpatova\\source\\repos\\paint_repo\\paint\\paint.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AALonpatova\\source\\repos\\paint\\paint\\paint.csproj": {
+    "C:\\Users\\AALonpatova\\source\\repos\\paint_repo\\paint\\paint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AALonpatova\\source\\repos\\paint\\paint\\paint.csproj",
+        "projectUniqueName": "C:\\Users\\AALonpatova\\source\\repos\\paint_repo\\paint\\paint.csproj",
         "projectName": "paint",
-        "projectPath": "C:\\Users\\AALonpatova\\source\\repos\\paint\\paint\\paint.csproj",
+        "projectPath": "C:\\Users\\AALonpatova\\source\\repos\\paint_repo\\paint\\paint.csproj",
         "packagesPath": "C:\\Users\\AALonpatova\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AALonpatova\\source\\repos\\paint\\paint\\obj\\",
+        "outputPath": "C:\\Users\\AALonpatova\\Source\\Repos\\paint_repo\\paint\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AALonpatova\\AppData\\Roaming\\NuGet\\NuGet.Config",
